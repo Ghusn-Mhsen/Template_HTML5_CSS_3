@@ -703,6 +703,7 @@ footer {
 .footer-items .item-2 p {
     margin-bottom: 31px;
     font-weight: bold;
+    color: #fff;
 }
 
 .footer-items .item-2 ul li {
@@ -719,6 +720,7 @@ footer {
 .footer-items .item-3 p {
     margin-bottom: 40px;
     font-weight: bold;
+    color: #fff;
 }
 
 footer .item-3 input {
